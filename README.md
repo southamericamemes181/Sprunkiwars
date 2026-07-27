@@ -1,2 +1,2 @@
-# Sprunkiwars
-The Minecraft Minigame based on Sprunki x BedWars
+# Description
+Welcome to Sprunkiwars. Sprunkiwars was released on August 30 2025, avaliable for Minecraft only
